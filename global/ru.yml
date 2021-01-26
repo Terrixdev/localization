@@ -38,3 +38,6 @@ UNMUTE_USER_ALERT: '%s §rразблокировал чат %s'
 #Core
 SERVER_STARTED: 'Сервер §a%s §rподключен к ядру §7[%s]'
 SERVER_DISCONNECTED: 'Сервер §a%s §rотключен от ядра'
+
+SERVER_SENT_TO_REBOOT: 'Сервер §a%s §rотправлен на перезагрузку'
+SERVER_SHUTDOWN: 'Сервер §a%s §rуспешно отключен'
