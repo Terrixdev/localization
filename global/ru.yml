@@ -3,9 +3,21 @@ COMMAND_ERROR: 'Вы ошиблись при использовании кома
 COMMAND_GAME_ERROR: 'Данная команда недоступна на игровом сервере'
 COMMAND_RANK_ERROR: 'Вы не можете заблокировать %s§r, потому что его ранг выше вашего'
 COMMAND_NO_PERMISSION: 'Данная команда доступна для %s §rи выше'
+COMMAND_ONLY_PLAYERS_ERROR: 'Данная команда доступна только игрокам'
+ALREADY_AUTHORIZED: 'Вы уже авторизованы на сервере'
+ALREADY_REGISTERED: 'Данный аккаунт уже зарегистрирован, используйте §7/login <пароль>'
+ENTER_YOUR_PASSWORD: 'Пожалуйста введите ваш пароль'
+ENTER_YOUR_PASSWORD_AGAIN: 'Пожалуйста, введите свой пароль еще раз'
+PASSWORD_MISMATCH: 'Введенные пароли не совпадают'
+PASSWORD_TOO_SHORT: 'Введенные вами пароли слишком короткие'
+PASSWORD_TOO_LONG: 'Введенные вами пароли слишком длинный'
+PASSWORD_CONTAINS_ILLEGAL_CHARS: 'Ваш пароль содержит недопустимые символы'
+SUCCESSFUL_REGISTRATION: 'Ваш аккаунт успешно зарегистрирован!'
+
+AUTH_PLEASE: 'Авторизуйтесь - §7/login <пароль>'
 
 USER_OFFLINE: '%s §rсейчас не в сети, последний визит §a%s'
-USER_NOT_PLAYED_BEFORE: '%s §rникогда прежде не играл на нашем проекте'
+USER_NOT_PLAYED_BEFORE: '§7%s §rникогда прежде не играл на нашем проекте'
 
 BALANCE: 'На вашем аккаунте §6%s §r%s и §2%s §r%s'
 

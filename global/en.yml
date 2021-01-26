@@ -4,7 +4,7 @@ COMMAND_GAME_ERROR: 'This command is not available on the game server'
 COMMAND_RANK_ERROR: 'You cannot block %s§r, because his rank is higher than yours'
 
 USER_OFFLINE: '%s §roffline now, last visit §a%s'
-USER_NOT_PLAYED_BEFORE: '%s §rnever played on our project before'
+USER_NOT_PLAYED_BEFORE: '§7%s §rnever played on our project before'
 
 BALANCE: 'On your account §6%s §r%s and §2%s §r%s'
 
