@@ -2,6 +2,7 @@ COMMAND_HELP: 'Помощь по команде §a%s§r:'
 COMMAND_ERROR: 'Вы ошиблись при использовании команды, используйте §7/%s %s'
 COMMAND_GAME_ERROR: 'Данная команда недоступна на игровом сервере'
 COMMAND_RANK_ERROR: 'Вы не можете заблокировать %s§r, потому что его ранг выше вашего'
+COMMAND_NO_PERMISSION: 'Данная команда доступна для %s §rи выше'
 
 USER_OFFLINE: '%s §rсейчас не в сети, последний визит §a%s'
 USER_NOT_PLAYED_BEFORE: '%s §rникогда прежде не играл на нашем проекте'
@@ -34,6 +35,8 @@ UNBAN_USER: 'Вы разблокировали %s'
 UNBAN_USER_ALERT: '%s §rразблокировал %s'
 UNMUTE_USER: 'Вы разблокировали чат %s'
 UNMUTE_USER_ALERT: '%s §rразблокировал чат %s'
+USER_ALREADY_BANNED: 'Данный игрок уже заблокирован'
+USER_ALREADY_MUTED: 'Чат данного игрока уже заблокирован'
 
 #Core
 SERVER_STARTED: 'Сервер §a%s §rподключен к ядру §7[%s]'
@@ -41,3 +44,8 @@ SERVER_DISCONNECTED: 'Сервер §a%s §rотключен от ядра'
 
 SERVER_SENT_TO_REBOOT: 'Сервер §a%s §rотправлен на перезагрузку'
 SERVER_SHUTDOWN: 'Сервер §a%s §rуспешно отключен'
+
+SERVER_TYPE_UNKNOWN: 'Неизвестен'
+SERVER_TYPE_LOBBY: 'Лобби'
+SERVER_TYPE_GAME: 'Игровой'
+SERVER_TYPE_BUNGEE: 'Прокси'

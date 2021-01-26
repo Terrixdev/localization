@@ -41,3 +41,8 @@ SERVER_DISCONNECTED: 'Server §a%s §rdisconnected from the core'
 
 SERVER_SENT_TO_REBOOT: 'Сервер §a%s §rотправлен на перезагрузку'
 SERVER_SHUTDOWN: 'Сервер §a%s §rуспешно отключен'
+
+SERVER_TYPE_UNKNOWN: 'Unknown'
+SERVER_TYPE_LOBBY: 'Lobby'
+SERVER_TYPE_GAME: 'Game'
+SERVER_TYPE_BUNGEE: 'Proxy'
