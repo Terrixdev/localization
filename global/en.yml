@@ -1,1 +1,43 @@
-BOARD_GROUP: ''
+COMMAND_HELP: 'Help by command §a%s§r:'
+COMMAND_ERROR: 'You are wrong when using the command, use §7/%s %s'
+COMMAND_GAME_ERROR: 'This command is not available on the game server'
+COMMAND_RANK_ERROR: 'You cannot block %s§r, because his rank is higher than yours'
+
+USER_OFFLINE: '%s §roffline now, last visit §a%s'
+USER_NOT_PLAYED_BEFORE: '%s §rnever played on our project before'
+
+BALANCE: 'On your account §6%s §r%s and §2%s §r%s'
+
+CREATIVE: 'Creative'
+SURVIVAL: 'Survival'
+SPECTATOR: 'Spectator'
+ADVENTURE: 'Adventure'
+
+GAMEMODE: 'Your game mode has been changed to §a%s'
+GAMEMODE_TO: 'Game mode %s §rchanged to §a%s'
+
+FIND: '%s §rlocated on the server §a%s'
+
+GROUP_HELP:
+  - ' §a/group set <ник игрока> <привилегия> §7- §rизменение привилегии'
+  - ' §a/group list §7- §rдоступные группы'
+
+GROUP_CHANGE_TO: 'Группа %s §rуспешно установлена игроку %s'
+ALREADY_HAS_GROUP: 'У %s §rуже есть данная группа'
+GROUP_CHANGE_ALERT: '%s §rизменил группу %s §rна %s'
+
+BAN_USER: 'Вы заблокировали %s §rна §a%s §rпо причине §a%s'
+BAN_USER_ALERT: '%s §rзаблокировал %s §rна §a%s §rпо причине §a%s'
+MUTE_USER: 'Вы заблокировали чат %s §rна §a%s §rпо причине §a%s'
+MUTE_USER_ALERT: '%s §rзаблокировал чат %s §rна §a%s §rпо причине §a%s'
+UNBAN_USER: 'Вы разблокировали %s'
+UNBAN_USER_ALERT: '%s §rразблокировал %s'
+UNMUTE_USER: 'Вы разблокировали чат %s'
+UNMUTE_USER_ALERT: '%s §rразблокировал чат %s'
+
+#Core
+SERVER_STARTED: 'Server §a%s §rconnected to the core §7[%s]'
+SERVER_DISCONNECTED: 'Server §a%s §rdisconnected from the core'
+
+SERVER_SENT_TO_REBOOT: 'Сервер §a%s §rотправлен на перезагрузку'
+SERVER_SHUTDOWN: 'Сервер §a%s §rуспешно отключен'
