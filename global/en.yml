@@ -8,6 +8,48 @@ USER_NOT_PLAYED_BEFORE: '§7%s §rnever played on our project before'
 
 BALANCE: 'On your account §6%s §r%s and §2%s §r%s'
 
+ACHIEVEMENT_RECEIVED: '§aДостижение получено'
+
+ACHIEVEMENT_WELCOME_NAME: 'Welcome!'
+ACHIEVEMENT_WELCOME_LORE:
+  - '§7Visit our project for the first time'
+ACHIEVEMENT_FIRST_MESSAGE_NAME: 'I say!'
+ACHIEVEMENT_FIRST_MESSAGE_LORE:
+  - '§7Write your first chat message'
+ACHIEVEMENT_KEEPER_NAME: 'Newbie'
+ACHIEVEMENT_KEEPER_LORE:
+  - '§7Get 5 achievements'
+ACHIEVEMENT_KEEPER_I_NAME: 'Experienced'
+ACHIEVEMENT_KEEPER_I_LORE:
+  - '§7Get 10 achievements'
+ACHIEVEMENT_KEEPER_II_NAME: 'Hero'
+ACHIEVEMENT_KEEPER_II_LORE:
+  - '§7Get 25 achievements'
+ACHIEVEMENT_KEEPER_III_NAME: 'Meister'
+ACHIEVEMENT_KEEPER_III_LORE:
+  - '§7Get 10 achievements'
+ACHIEVEMENT_KEEPER_IV_NAME: 'Great maester'
+ACHIEVEMENT_KEEPER_IV_LORE:
+  - '§7Get 75 achievements'
+ACHIEVEMENT_KEEPER_V_NAME: 'Greatest Maester'
+ACHIEVEMENT_KEEPER_V_LORE:
+  - '§7Get 100 achievements'
+ACHIEVEMENT_IRON_RANK_NAME: 'Iron'
+ACHIEVEMENT_IRON_RANK_LORE:
+  - '§7Get a privilege §7§lIRON'
+ACHIEVEMENT_GOLD_RANK_NAME: 'Gold'
+ACHIEVEMENT_GOLD_RANK_LORE:
+  - '§7Get a privilege §e§lGOLD'
+ACHIEVEMENT_DIAMOND_RANK_NAME: 'Diamond'
+ACHIEVEMENT_DIAMOND_RANK_LORE:
+  - '§7Get a privilege §b§lDIAMOND'
+ACHIEVEMENT_EMERALD_RANK_NAME: 'Emerald'
+ACHIEVEMENT_EMERALD_RANK_LORE:
+  - '§7Get a privilege §a§lEMERALD'
+ACHIEVEMENT_TERRA_RANK_NAME: 'The coolest!'
+ACHIEVEMENT_TERRA_RANK_LORE:
+  - '§7Get a privilege §2§lTERRA'
+
 CREATIVE: 'Creative'
 SURVIVAL: 'Survival'
 SPECTATOR: 'Spectator'
