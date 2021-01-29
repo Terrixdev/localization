@@ -76,6 +76,12 @@ ACHIEVEMENT_EMERALD_RANK_LORE:
 ACHIEVEMENT_TERRA_RANK_NAME: 'Самый крутой!'
 ACHIEVEMENT_TERRA_RANK_LORE:
   - '§7Приобретите привилегию §2§lTERRA'
+ACHIEVEMENT_YOUTUBE_RANK_NAME: 'Огромная популярность'
+ACHIEVEMENT_YOUTUBE_RANK_LORE:
+  - '§7Станьте частью сервера :)'
+ACHIEVEMENT_BECOME_OF_PART_STAFF_NAME: 'Я закон'
+ACHIEVEMENT_BECOME_OF_PART_STAFF_LORE:
+  - '§7Станьте частью персонала проекта'
 
 CREATIVE: 'Креатив'
 SURVIVAL: 'Выживание'
