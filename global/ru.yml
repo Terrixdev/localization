@@ -35,7 +35,7 @@ USER_NOT_PLAYED_BEFORE: '§7%s §rникогда прежде не играл н
 
 BALANCE: 'На вашем аккаунте §6%s §r%s и §2%s §r%s'
 
-ACHIEVEMENT_RECEIVED: '§aДостижение получено'
+ACHIEVEMENT_RECEIVED: 'Достижение получено'
 
 ACHIEVEMENT_WELCOME_NAME: 'Добро пожаловать!'
 ACHIEVEMENT_WELCOME_LORE:
