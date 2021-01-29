@@ -5,6 +5,8 @@ COMMAND_RANK_ERROR: 'Вы не можете заблокировать %s§r, п
 COMMAND_NO_PERMISSION: 'Данная команда доступна для %s §rи выше'
 COMMAND_ONLY_PLAYERS_ERROR: 'Данная команда доступна только игрокам'
 
+LICENSE_CHANGE: 'Вход с лицензии %s'
+
 ALREADY_AUTHORIZED: 'Вы уже авторизованы на сервере'
 ALREADY_LOGGED_OUT: 'Вы не авторизованы на сервере'
 ALREADY_REGISTERED: 'Данный аккаунт уже зарегистрирован, используйте §7/login <пароль>'
@@ -32,6 +34,48 @@ USER_OFFLINE: '%s §rсейчас не в сети, последний визи�
 USER_NOT_PLAYED_BEFORE: '§7%s §rникогда прежде не играл на нашем проекте'
 
 BALANCE: 'На вашем аккаунте §6%s §r%s и §2%s §r%s'
+
+ACHIEVEMENT_RECEIVED: '§aДостижение получено'
+
+ACHIEVEMENT_WELCOME_NAME: 'Добро пожаловать!'
+ACHIEVEMENT_WELCOME_LORE:
+  - '§7Зайти на наш проект впервые'
+ACHIEVEMENT_FIRST_MESSAGE_NAME: 'Я говорю!'
+ACHIEVEMENT_FIRST_MESSAGE_LORE:
+  - '§7Напишите свое первое сообщение в чат'
+ACHIEVEMENT_KEEPER_NAME: 'Новичок'
+ACHIEVEMENT_KEEPER_LORE:
+  - '§7Получите 5 достижений'
+ACHIEVEMENT_KEEPER_I_NAME: 'Бывалый'
+ACHIEVEMENT_KEEPER_I_LORE:
+  - '§7Получите 10 достижений'
+ACHIEVEMENT_KEEPER_II_NAME: 'Герой'
+ACHIEVEMENT_KEEPER_II_LORE:
+  - '§7Получите 25 достижений'
+ACHIEVEMENT_KEEPER_III_NAME: 'Мейстер'
+ACHIEVEMENT_KEEPER_III_LORE:
+  - '§7Получите 10 достижений'
+ACHIEVEMENT_KEEPER_IV_NAME: 'Великий мейстер'
+ACHIEVEMENT_KEEPER_IV_LORE:
+  - '§7Получите 75 достижений'
+ACHIEVEMENT_KEEPER_V_NAME: 'Величайший мейстер'
+ACHIEVEMENT_KEEPER_V_LORE:
+  - '§7Получите 100 достижений'
+ACHIEVEMENT_IRON_RANK_NAME: 'Железный'
+ACHIEVEMENT_IRON_RANK_LORE:
+  - '§7Приобретите привилегию §7§lIRON'
+ACHIEVEMENT_GOLD_RANK_NAME: 'Золотой'
+ACHIEVEMENT_GOLD_RANK_LORE:
+  - '§7Приобретите привилегию §e§lGOLD'
+ACHIEVEMENT_DIAMOND_RANK_NAME: 'Алмазный'
+ACHIEVEMENT_DIAMOND_RANK_LORE:
+  - '§7Приобретите привилегию §b§lDIAMOND'
+ACHIEVEMENT_EMERALD_RANK_NAME: 'Изумрудный'
+ACHIEVEMENT_EMERALD_RANK_LORE:
+  - '§7Приобретите привилегию §a§lEMERALD'
+ACHIEVEMENT_TERRA_RANK_NAME: 'Самый крутой!'
+ACHIEVEMENT_TERRA_RANK_LORE:
+  - '§7Приобретите привилегию §2§lTERRA'
 
 CREATIVE: 'Креатив'
 SURVIVAL: 'Выживание'
