@@ -34,6 +34,7 @@ USER_OFFLINE: '%s §rсейчас не в сети, последний визи�
 USER_NOT_PLAYED_BEFORE: '§7%s §rникогда прежде не играл на нашем проекте'
 
 BALANCE: 'На вашем аккаунте §6%s §r%s и §2%s §r%s'
+PING: 'Ваш пинг §a%s§rms'
 
 ACHIEVEMENT_RECEIVED: 'Достижение получено'
 
@@ -82,6 +83,9 @@ ACHIEVEMENT_YOUTUBE_RANK_LORE:
 ACHIEVEMENT_BECOME_OF_PART_STAFF_NAME: 'Я закон'
 ACHIEVEMENT_BECOME_OF_PART_STAFF_LORE:
   - '§7Станьте частью персонала проекта'
+ACHIEVEMENT_ASTRONAUT_NAME: 'Астронавт'
+ACHIEVEMENT_ASTRONAUT_LORE: 
+  - '§7'
 
 CREATIVE: 'Креатив'
 SURVIVAL: 'Выживание'
