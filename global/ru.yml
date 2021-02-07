@@ -117,6 +117,7 @@ USER_ALREADY_BANNED: 'Данный игрок уже заблокирован'
 USER_ALREADY_MUTED: 'Чат данного игрока уже заблокирован'
 
 #Core
+SERVER_SENT_TO_RELOAD_BY: '%s §rотправил на перезагрузку сервер §a%s'
 SERVER_STARTED: 'Сервер §a%s §rподключен к ядру §7[%s]'
 SERVER_DISCONNECTED: 'Сервер §a%s §rотключен от ядра'
 
