@@ -116,6 +116,13 @@ UNMUTE_USER_ALERT: '%s §rразблокировал чат %s'
 USER_ALREADY_BANNED: 'Данный игрок уже заблокирован'
 USER_ALREADY_MUTED: 'Чат данного игрока уже заблокирован'
 
+BOARD_RANK: 'Ранг: %s'
+BOARD_MONEY: 'Монет: §6%s'
+BOARD_EMERALD: 'Изумрудов: §2%s'
+BOARD_MULTIPLIERS: 'Множители:'
+BOARD_SERVER_ONLINE: 'Онлайн сервера: §a%s'
+BOARD_SERVER: 'Сервер: §a%s'
+
 #Gui
 SKYBLOCK_ITEM_NAME: 'SkyBlock'
 SKYBLOCK_ITEM_LORE:
