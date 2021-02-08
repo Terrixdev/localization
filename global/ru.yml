@@ -116,6 +116,12 @@ UNMUTE_USER_ALERT: '%s §rразблокировал чат %s'
 USER_ALREADY_BANNED: 'Данный игрок уже заблокирован'
 USER_ALREADY_MUTED: 'Чат данного игрока уже заблокирован'
 
+#Gui
+SKYBLOCK_ITEM_NAME: 'SkyBlock'
+SKYBLOCK_ITEM_LORE:
+- ''
+- ''
+
 #Core
 SERVER_SENT_TO_RELOAD_BY: '%s §rотправил на перезагрузку сервер §a%s'
 SERVER_STARTED: 'Сервер §a%s §rподключен к ядру §7[%s]'
